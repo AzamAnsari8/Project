@@ -1,0 +1,33 @@
+body{
+    background-color:darkblue;
+    text-align: center;
+    font: bold;
+    font-style: italic;
+    font-size: larger;
+    color: white;
+}
+
+.container{
+    width: 400px;
+    margin: 10px auto 0px auto;
+    background-color: aliceblue;
+    padding: 20px;
+    color: red;
+    text-align: left;
+    border: 2px solid black;
+}
+
+.lname{
+    width: 370px;
+    padding: 10px;
+    background-color:lightcyan;
+}
+
+.button{
+    background-color: rgb(35, 150, 64);
+    width: 393px;
+    padding: 10px;
+    color: white;
+    
+}
+
